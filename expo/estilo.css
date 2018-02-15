@@ -1,0 +1,82 @@
+body{
+	background-image: url('udc.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+	font-size: 18px;
+	text-align: justify;
+}
+#barra{
+	top: 10px;
+	width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#next{
+	width: 90%;
+	padding-top: 180px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#integrantes{
+	padding-top: 30px;
+	text-align: center;
+	background-color: rgba(246, 246, 246, 0.8);
+	width: 1000px;
+	margin: auto;
+	border-radius: 10px;
+}
+#integrantes2{
+	padding-top: 30px;
+	text-align: center;
+	background-color: rgba(246, 246, 246, 0.9);
+	width: 1000px;
+	margin: auto;
+	border-radius: 10px;
+}
+#integrantes3{
+	padding-top: 30px;
+	background-color: rgba(246, 246, 246, 0.9);
+	width: 1000px;
+	margin: auto;
+	border-radius: 10px;
+	padding-bottom: 40px;
+}
+#integrantes4{
+	text-align: center;
+	width: 1000px;
+	margin: auto;
+	border-radius: 10px;
+}
+#integ{
+	text-align: center;
+	background-color: rgba(246, 246, 246, 0.8);
+	width: 1000px;
+	margin: auto;
+	border-radius: 10px;
+}
+#datos{
+	text-align: center;
+	background-color: rgba(246, 246, 246, 0.8);
+	width: 1000px;
+	margin: auto;
+	border-radius: 10px;
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgba(246, 246, 246, 0.8);
+	
+}
+.img2{
+display: block;
+margin-left: auto;
+margin-right: auto;
+background-color: rgba(246, 246, 246, 0.8);
+padding-right: 30px;
+}
+
